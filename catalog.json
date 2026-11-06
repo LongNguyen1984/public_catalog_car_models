@@ -18,6 +18,15 @@
       "attribution": "2025 Lexus LX700h by Ddiaz Design. CC BY-NC-SA 4.0. Source: https://sketchfab.com/3d-models/2025-lexus-lx700h-1dd2df7c68e74ca3a3ea83fb6c4bd1a2",
       "rotationY": 0,
       "positionOffset": { "x": 0, "y": 0, "z": 0 }
+    },
+    {
+      "id": "dummy model",
+      "displayName": "dummy model",
+      "file": "dummy_model.glb",
+      "url": "models/dummy_model.glb",
+      "attribution": "The dummy model not exist which used to test system keep default if the model is selected.",
+      "rotationY": 0,
+      "positionOffset": { "x": 0, "y": 0, "z": 0 }
     }
   ]
 }
